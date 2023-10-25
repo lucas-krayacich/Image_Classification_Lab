@@ -1,0 +1,1 @@
+python train_vanilla.py -e 3 -s vanilla_model.pth
